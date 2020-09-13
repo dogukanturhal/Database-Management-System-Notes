@@ -1,2 +1,2 @@
-# Database-Management-System-Notes
-All notes that you need for DBMS 
+# Database Management System Notes
+ 
